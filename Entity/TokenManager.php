@@ -11,7 +11,7 @@
 
 namespace FOS\OAuthServerBundle\Entity;
 
-use Doctrine\Common\Persistence\ObjectManager;
+use Doctrine\Persistence\ObjectManager;
 use Doctrine\ORM\EntityManager;
 use Doctrine\ORM\EntityRepository;
 use FOS\OAuthServerBundle\Model\TokenInterface;

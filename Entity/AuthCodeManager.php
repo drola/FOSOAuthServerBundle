@@ -11,7 +11,7 @@
 
 namespace FOS\OAuthServerBundle\Entity;
 
-use Doctrine\Common\Persistence\ObjectManager;
+use Doctrine\Persistence\ObjectManager;
 use Doctrine\ORM\EntityManager;
 use FOS\OAuthServerBundle\Model\AuthCodeInterface;
 use FOS\OAuthServerBundle\Model\AuthCodeManager as BaseAuthCodeManager;
